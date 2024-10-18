@@ -1,0 +1,8 @@
+.dep
+backward_propagation copy 2.py
+backward_propagation copy.py
+script copy.py
+script_testt copy.py
+script_testt.py
+interactive_nn_component
+template
